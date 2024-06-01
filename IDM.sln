@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDM", "IDM\IDM.csproj", "{30CDE7BE-720C-4FE0-A6B6-87F4CCC44F0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDM_user", "..\IDM_user\IDM_user\IDM_user.csproj", "{714725AD-1759-433A-B4B1-B382B3F7CDB1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{30CDE7BE-720C-4FE0-A6B6-87F4CCC44F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30CDE7BE-720C-4FE0-A6B6-87F4CCC44F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30CDE7BE-720C-4FE0-A6B6-87F4CCC44F0D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{714725AD-1759-433A-B4B1-B382B3F7CDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{714725AD-1759-433A-B4B1-B382B3F7CDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{714725AD-1759-433A-B4B1-B382B3F7CDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{714725AD-1759-433A-B4B1-B382B3F7CDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
